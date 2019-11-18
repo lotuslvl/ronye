@@ -1,0 +1,81 @@
+body {
+    background-image: url("https://media.licdn.com/dms/image/C4E03AQHhZ2tbXjhExg/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=q-spMaDF_czi3FJLxfolpXzyFdEL4NBuqSEI5M7njzI");
+    background-repeat: repeat;
+  }
+
+h1 {
+    font-family: 'Molle', cursive;
+
+}
+
+
+h2{
+    font-family: 'Amatic SC', cursive;
+    color:red;
+}
+
+p{
+    font-family: 'Coming Soon', cursive;
+    
+
+}
+.ronsfavsong{
+    opacity: 0.0;
+}
+
+.lovenotes{
+    padding-top:20px;
+    background-color:white;
+    width:50%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.title{
+
+    color:white;
+    background-color:red;
+    text-align: center;
+    padding-top:30px;
+    padding-bottom:30px;
+    margin-bottom: 20px;
+
+
+}
+
+#animate1 { 
+    background-image: url("https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/dogs_1280p_0.jpg?itok=cnRk0HYq");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+    position:relative;
+
+}
+
+#animate2 { 
+    background-image: url("https://hips.hearstapps.com/bpc.h-cdn.co/assets/17/20/1600x800/landscape-1494963159-best-las-vegas-buffet.jpg?");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+    position:relative;
+
+}
+
+
+#animate3 { 
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hand-held-bbq-favorites-royalty-free-image-694189032-1564779029.jpg?resize=480:*");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+    position:relative;
+
+}
+
+#animate4{ 
+    background-image: url("https://www.washingtonpost.com/resizer/kPkFQsQjvSIjfXG-mFXDEpxq6-4=/767x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HB4AT3D3IMI6TMPTWIZ74WAR54.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+    position:relative;
+
+}
