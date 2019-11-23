@@ -19,9 +19,6 @@ p{
     
 
 }
-.ronsfavsong{
-    opacity: 0.0;
-}
 
 .lovenotes{
     padding-top:20px;
@@ -44,7 +41,7 @@ p{
 }
 
 #animate1 { 
-    background-image: url("https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/dogs_1280p_0.jpg?itok=cnRk0HYq");
+    background-image: url("img/image.png");
     background-size: contain;
     background-repeat: no-repeat;
     height: 200px;
@@ -53,7 +50,7 @@ p{
 }
 
 #animate2 { 
-    background-image: url("https://hips.hearstapps.com/bpc.h-cdn.co/assets/17/20/1600x800/landscape-1494963159-best-las-vegas-buffet.jpg?");
+    background-image: url("img/image.png");
     background-size: contain;
     background-repeat: no-repeat;
     height: 200px;
